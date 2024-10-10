@@ -1,4 +1,4 @@
-## Integrantes
+# Integrantes
 
 - Amanda Meneghin Pavarini
 - Gabriel Toledo Duarte
