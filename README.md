@@ -1,13 +1,16 @@
-# Integrantes
+# flutter_application_1
 
-- Amanda Meneghin Pavarini
-- Gabriel Toledo Duarte
+A new Flutter project.
 
-# APP-Yoko-Shimomura
-Trabalho de Mobile - 4°bimestre
+## Getting Started
 
-# Sumário / wiki
+This project is a starting point for a Flutter application.
 
-- <a href="https://github.com/Amanda-Meneghin/APP-Yoko-Shimomura/wiki/Biografia-do-Profisional-(Yoko-Shimomura)">Biografia do Profissional</a>
-- <a href="https://github.com/Amanda-Meneghin/APP-Yoko-Shimomura/wiki/Prot%C3%B3tipo">Protótipo</a>
-- <a href="https://github.com/Amanda-Meneghin/APP-Yoko-Shimomura/wiki/Desenvolvimento">Desenvolvimento</a>
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
