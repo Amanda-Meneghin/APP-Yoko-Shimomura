@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Amanda Meneghin Pavarini
-- Gabriel Duarte Toledo
+- Gabriel Toledo Duarte
 
 # Projeto Mobile
 
